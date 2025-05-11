@@ -1,0 +1,5 @@
+gymnasium
+numpy
+matplotlib
+ipython
+pyglet==1.5.11
